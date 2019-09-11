@@ -2,3 +2,7 @@
  
 DiLo Game Academy 
 Week 1 Project : Flappy bird
+
+how to playe
+left mouse click : jump
+righ mouse click : shoot
